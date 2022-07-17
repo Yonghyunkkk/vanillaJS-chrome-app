@@ -1,0 +1,145 @@
+body{
+    font-family: 'Baloo Tammudu 2', 'Noto Sans KR', sans-serif;
+}
+
+img {
+    position:absolute;
+    width:100%;
+    height:100%;
+    left: 0px;
+    top: 0px;
+    right:0px;
+    bottom:0px;
+    z-index: -1;
+    filter: brightness(70%);
+}
+
+h2 {
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 16%;
+    margin-bottom: -10px;
+
+}
+
+.login-form {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.login-form input {
+    width: 170px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid white;
+    background: transparent;
+    color: white;
+}
+
+.login-form button {
+    border-radius: 5px;
+    background: transparent;
+    border: 3px solid white;
+    color: white;
+    font-weight: bold;
+}
+
+.login-form input::placeholder {
+    color: white;
+    font-weight: bold;
+}
+
+.login-form input:focus {
+    outline: none;
+}
+
+#greeting {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+#todo-form {
+    margin-top: 30px;
+    text-align: center;
+}
+
+#todo-form input {
+    width: 170px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid white;
+    background: transparent;
+    color: white;
+}
+
+#todo-form input::placeholder {
+    color: white;
+    font-weight: bold;
+}
+
+#todo-form input:focus {
+    outline: none;
+}
+
+#quote {
+    color: white;
+    text-align: center;
+}
+
+#todo-list {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    list-style-type: none;
+    width: 200px;
+    height: 200px;
+    overflow: auto;
+    margin: 10px auto;
+    font-weight: 600;
+}
+
+#todo-list li {
+    margin-top: 2px;
+}
+
+#todo-list span{
+    margin-right: 10px;
+}
+
+#todo-list button {
+    color: white;
+    background-color: transparent;
+    border: transparent;
+}
+
+#weather {
+    color: white;
+    position:absolute;
+    top:0;
+    right:0;
+    margin: 10px;
+}
+
+.hidden {
+    display: none;
+}
+
+ul::-webkit-scrollbar {
+    width: 7px;  /* 스크롤바의 너비 */
+}
+
+ul::-webkit-scrollbar-thumb {
+    height: 10%; /* 스크롤바의 길이 */
+    background-color: white;
+    opacity: 0.5; /* 스크롤바의 색상 */
+    border-radius: 10px;
+}
+
+ul::-webkit-scrollbar-track {
+    background: transparent;  /*스크롤바 뒷 배경 색상*/
+}
