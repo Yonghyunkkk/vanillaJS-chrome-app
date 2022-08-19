@@ -24,6 +24,6 @@ This website is a page with a personal dashboard featuring to-do, weather, and i
 <br>
 
 ## 🔖 Learnt
->+ ReactJS Hooks (State and Effect)
->+ Asynchronous API fetch (async and await)
->+ Props, JSX, Slider, etc.
+>+ Javascript basics
+>+ DOM Events
+>+ Async JavaScript
