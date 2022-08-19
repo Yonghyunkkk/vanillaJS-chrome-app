@@ -8,7 +8,7 @@ This website is a page with a personal dashboard featuring to-do, weather, and i
 ![VanillaJS](https://user-images.githubusercontent.com/91252737/185611654-687b28ff-2704-45ac-9377-45c0b39f6b2b.png)
 
 <p align='center'>
-    <a href="https://yonghyunkkk.github.io/react-movie-web-service/">Demo</a>
+    <a href="https://yonghyunkkk.github.io/vanillaJS-chrome-app/">Demo</a>
 </p>
 
 <br>
