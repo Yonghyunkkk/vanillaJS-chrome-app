@@ -24,6 +24,6 @@ This website is a page with a personal dashboard featuring to-do, weather, and i
 <br>
 
 ## 🔖 Learnt
->+ Javascript basics
+>+ JavaScript basics
 >+ DOM Events
 >+ Async JavaScript
